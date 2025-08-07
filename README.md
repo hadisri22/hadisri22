@@ -95,10 +95,10 @@ I'm a passionate **Full Stack Python Developer** and **Web Developer** who loves
 
 ---
 
-### 👀 Visitor Count
+### Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hadisri22&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hadisri22&label=PROFILE%20VISITS&color=0e75b6&style=flat-square" alt="Profile Visits" />
 </p>
 
 ---
